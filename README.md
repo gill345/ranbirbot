@@ -36,7 +36,7 @@ can also fetch the weather, inspire you with a quote or perhaps challenge you wi
    - **Linux:** Use your package manager (`sudo apt install ffmpeg`)
    - **macOS:** Install with Homebrew (`brew install ffmpeg`)
 
-4. Edit `bot.py` to set your Discord bot token and `weather.py` for your weather API key:
+4. Edit `bot.py` to set your Discord bot token and `weather.py` for your OpenWeatherMap API key:
   
 In `bot.py`:
    ```python
