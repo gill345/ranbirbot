@@ -38,7 +38,7 @@ can also fetch the weather, inspire you with a quote or perhaps challenge you wi
 
 4. Edit `bot.py` to set your Discord bot token and `weather.py` for your weather API key:
   
-   In `bot.py`:
+In `bot.py`:
    ```python
    await bot.start("apikey")
    ```
@@ -46,7 +46,7 @@ In `cogs/weather.py`:
    ```python
    api_key = 'your_openweathermap_api_key_here'
    ```
-   ```
+   
 
 ## Usage
 Start the bot:
@@ -54,11 +54,4 @@ Start the bot:
 python bot.py
 ```
 
-
-
-## Contributing
-Feel free to fork this project, submit issues, and create pull requests!
-
-## License
-This project is licensed under the MIT License.
 
