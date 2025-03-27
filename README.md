@@ -22,7 +22,7 @@ can also fetch the weather, inspire you with a quote or perhaps challenge you wi
 ## Setup
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/gill345/ranbirbot.git
    cd <repository-folder>
    ```
 
